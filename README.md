@@ -1,2 +1,2 @@
 # mars
-it is used html, css, js, and flask
+it is used HTML and flask
